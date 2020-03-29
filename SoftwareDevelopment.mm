@@ -1,18 +1,18 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1585478939021" ID="ID_1776422280" MODIFIED="1585489846817" TEXT="Software Development">
-<node CREATED="1585485917009" FOLDED="true" ID="ID_750891335" MODIFIED="1585490589467" POSITION="left" TEXT="Development Process">
+<node CREATED="1585478939021" ID="ID_1776422280" MODIFIED="1585495394365" TEXT="Enterprise Software Development">
+<node CREATED="1585485917009" FOLDED="true" ID="ID_750891335" MODIFIED="1585495256483" POSITION="left" TEXT="Development Process">
 <icon BUILTIN="full-1"/>
 <node CREATED="1585487345572" ID="ID_812827887" LINK="https://agilemanifesto.org/" MODIFIED="1585487447676" TEXT="Manifesto for Agile Software Development"/>
 <node CREATED="1585485970306" ID="ID_1025987219" LINK="https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675" MODIFIED="1585485996032" TEXT="The Art of Agile Development by James Shore, Shane Warden"/>
 <node CREATED="1585486920955" ID="ID_1620497355" LINK="https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature-ebook/dp/B008NAKA5O/ref=sr_1_1?keywords=essential+scrum&amp;qid=1585486908&amp;s=books&amp;sr=1-1" MODIFIED="1585486999551" TEXT="Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin"/>
 </node>
-<node CREATED="1585479010365" FOLDED="true" ID="ID_658798748" MODIFIED="1585490588039" POSITION="left" TEXT="Design Basics">
+<node CREATED="1585479010365" FOLDED="true" ID="ID_658798748" MODIFIED="1585495251830" POSITION="left" TEXT="Design Basics">
 <icon BUILTIN="full-2"/>
-<node CREATED="1585480216503" FOLDED="true" ID="ID_1241136404" MODIFIED="1585487468803" TEXT="Modularity and OOP Principles">
+<node CREATED="1585480216503" ID="ID_1241136404" MODIFIED="1585494860100" TEXT="Modularity and OOP Principles">
 <node CREATED="1585483181457" ID="ID_395974092" LINK="https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554" MODIFIED="1585483519042" TEXT="Object-Oriented Software Construction (2nd Edition) by  Bertrand Meyer"/>
 </node>
-<node CREATED="1585479757158" FOLDED="true" ID="ID_1756433466" MODIFIED="1585488481349" TEXT="Design by contract">
+<node CREATED="1585479757158" ID="ID_1756433466" MODIFIED="1585494863320" TEXT="Design by contract">
 <node CREATED="1585483181457" ID="ID_1168236650" LINK="https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554" MODIFIED="1585483519042" TEXT="Object-Oriented Software Construction (2nd Edition) by  Bertrand Meyer"/>
 </node>
 <node CREATED="1585479542644" ID="ID_1091276164" MODIFIED="1585488483396" TEXT="SOLID">
@@ -54,7 +54,7 @@
 <node CREATED="1585484711681" ID="ID_467967540" LINK="https://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html" MODIFIED="1585484752623" TEXT="Test Contra-variance: Article by Robert C. Martin"/>
 </node>
 </node>
-<node CREATED="1585479084869" FOLDED="true" ID="ID_1835202548" MODIFIED="1585490586343" POSITION="left" TEXT="Module/Service Design">
+<node CREATED="1585479084869" FOLDED="true" ID="ID_1835202548" MODIFIED="1585495253494" POSITION="left" TEXT="Module/Service Design">
 <icon BUILTIN="full-3"/>
 <node CREATED="1585479693973" ID="ID_769790711" MODIFIED="1585489004786" TEXT="Enterprise Application Patterns">
 <node CREATED="1585484983560" ID="ID_1135528084" LINK="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" MODIFIED="1585485001857" TEXT="Patterns of Enterprise Application Architecture by Martin Fowler"/>
@@ -82,7 +82,7 @@
 <node CREATED="1585484076554" ID="ID_1254096135" LINK="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=sr_1_1?keywords=clean+architecture&amp;qid=1585484064&amp;s=books&amp;sr=1-1" MODIFIED="1585484115468" TEXT="Clean Architecture: A Craftsman&apos;s Guide to Software Structure and Design  by Robert C. Martin"/>
 </node>
 </node>
-<node CREATED="1585479273717" FOLDED="true" ID="ID_1331983333" MODIFIED="1585490704768" POSITION="right" TEXT="Distributed Systems Design">
+<node CREATED="1585479273717" FOLDED="true" ID="ID_1331983333" MODIFIED="1585495259213" POSITION="right" TEXT="Distributed Systems Design">
 <icon BUILTIN="full-4"/>
 <node CREATED="1585479721678" ID="ID_755644256" MODIFIED="1585490669551" TEXT="Strategic DDD">
 <node CREATED="1585485051394" ID="ID_81001968" LINK="https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215" MODIFIED="1585485067804" TEXT="Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans"/>
@@ -109,7 +109,7 @@
 </node>
 <node CREATED="1585487389612" ID="ID_1196106071" LINK="https://12factor.net/" MODIFIED="1585487411800" TEXT="12 Factor Apps"/>
 </node>
-<node CREATED="1585487046612" FOLDED="true" ID="ID_165923351" MODIFIED="1585490701677" POSITION="right" TEXT="Continious Delivery">
+<node CREATED="1585487046612" FOLDED="true" ID="ID_165923351" MODIFIED="1585495261113" POSITION="right" TEXT="Continious Delivery">
 <arrowlink DESTINATION="ID_165923351" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1347873064" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_165923351" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1347873064" SOURCE="ID_165923351" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="full-5"/>
