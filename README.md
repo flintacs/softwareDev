@@ -1,8 +1,8 @@
-# Software Development Recommended Resources
+# Enterprise Software Development Recommended Resources
 
 # What is it all about?
 
-This repository contains my personal recommendations on software development resources. 
+This repository contains my personal recommendations on enterprise software development resources. 
 While my whole carreer has been devoted to development on Java which may have been influenced my choices 
 I do my best here to recommend technology agnostic resources only. 
 The majority of recommendations can be named "classics" or are written by "classic" authors in my opinion.
