@@ -1,4 +1,4 @@
-<map version="1.0.1">
+<map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1585478939021" ID="ID_1776422280" MODIFIED="1585495394365" TEXT="Enterprise Software Development">
 <node CREATED="1585485917009" FOLDED="true" ID="ID_750891335" MODIFIED="1585495256483" POSITION="left" TEXT="Development Process">
@@ -7,7 +7,7 @@
 <node CREATED="1585485970306" ID="ID_1025987219" LINK="https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675" MODIFIED="1585485996032" TEXT="The Art of Agile Development by James Shore, Shane Warden"/>
 <node CREATED="1585486920955" ID="ID_1620497355" LINK="https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature-ebook/dp/B008NAKA5O/ref=sr_1_1?keywords=essential+scrum&amp;qid=1585486908&amp;s=books&amp;sr=1-1" MODIFIED="1585486999551" TEXT="Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin"/>
 </node>
-<node CREATED="1585479010365" FOLDED="true" ID="ID_658798748" MODIFIED="1585495251830" POSITION="left" TEXT="Design Basics">
+<node CREATED="1585479010365" ID="ID_658798748" MODIFIED="1594921307708" POSITION="left" TEXT="Design Basics">
 <icon BUILTIN="full-2"/>
 <node CREATED="1585480216503" ID="ID_1241136404" MODIFIED="1585494860100" TEXT="Modularity and OOP Principles">
 <node CREATED="1585483181457" ID="ID_395974092" LINK="https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554" MODIFIED="1585483519042" TEXT="Object-Oriented Software Construction (2nd Edition) by  Bertrand Meyer"/>
@@ -28,8 +28,7 @@
       This book is a primary source on Open Closed Principle and Design by Contract (which has much in common with Liskov Substitution Principle)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1585479828166" ID="ID_709466483" MODIFIED="1585488961850" TEXT="Clean Code">
@@ -39,12 +38,14 @@
 </node>
 <node CREATED="1585483181457" ID="ID_949072708" LINK="https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554" MODIFIED="1585483519042" TEXT="Object-Oriented Software Construction (2nd Edition) by  Bertrand Meyer"/>
 </node>
-<node CREATED="1585479786533" ID="ID_260884197" MODIFIED="1585488968082" TEXT="GoF Patterns">
+<node CREATED="1585479786533" ID="ID_260884197" MODIFIED="1594921403832" TEXT="GoF Patterns">
 <node CREATED="1585483029952" ID="ID_1350057845" LINK="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-dp-0201633612/dp/0201633612/ref=mt_hardcover?_encoding=UTF8&amp;me=&amp;qid=" MODIFIED="1585483096464" TEXT="Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides"/>
+<node CREATED="1594921405515" ID="ID_239602563" LINK="https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351" MODIFIED="1594921460372" TEXT="Refactoring to Patterns by Joshua Kerievsky "/>
 </node>
 <node CREATED="1585479839406" ID="ID_1380492798" MODIFIED="1585488970958" TEXT="Refactoring">
 <node CREATED="1585483289145" ID="ID_1705585383" LINK="https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599" MODIFIED="1585483339812" TEXT="Refactoring: Improving the Design of Existing Code (2nd Edition) by Martin Fowler"/>
 <node CREATED="1585484177864" ID="ID_1417537503" LINK="https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A" MODIFIED="1585484213229" TEXT="Working Effectively with Legacy Code by Michael Feathers"/>
+<node CREATED="1594921405515" ID="ID_339155202" LINK="https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351" MODIFIED="1594921460372" TEXT="Refactoring to Patterns by Joshua Kerievsky "/>
 </node>
 <node CREATED="1585479847838" ID="ID_484408243" MODIFIED="1585488979006" TEXT="Unit and Integration testing">
 <node CREATED="1585483590586" ID="ID_1575560134" LINK="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627" MODIFIED="1585483633818" TEXT="Growing Object-Oriented Software, Guided by Tests by  Steve Freeman, Nat Pryce"/>
@@ -70,19 +71,18 @@
   </head>
   <body>
     <p>
-      Known also as &quot;Ports and Adpaters&quot; or &quot;Clean&quot; Architecture
+      Known also as "Ports and Adpaters" or "Clean" Architecture
     </p>
     <p>
       Browse also articles of its original author - Alistair Cockburn
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1585485124186" ID="ID_1157230675" LINK="https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577" MODIFIED="1585485147910" TEXT="Implementing Domain-Driven Design by Vaughn Vernon"/>
 <node CREATED="1585484076554" ID="ID_1254096135" LINK="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=sr_1_1?keywords=clean+architecture&amp;qid=1585484064&amp;s=books&amp;sr=1-1" MODIFIED="1585484115468" TEXT="Clean Architecture: A Craftsman&apos;s Guide to Software Structure and Design  by Robert C. Martin"/>
 </node>
 </node>
-<node CREATED="1585479273717" FOLDED="true" ID="ID_1331983333" MODIFIED="1585495259213" POSITION="right" TEXT="Distributed Systems Design">
+<node CREATED="1585479273717" ID="ID_1331983333" MODIFIED="1594921283550" POSITION="right" TEXT="Distributed Systems Design">
 <icon BUILTIN="full-4"/>
 <node CREATED="1585479721678" ID="ID_755644256" MODIFIED="1585490669551" TEXT="Strategic DDD">
 <node CREATED="1585485051394" ID="ID_81001968" LINK="https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215" MODIFIED="1585485067804" TEXT="Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans"/>
@@ -109,7 +109,7 @@
 </node>
 <node CREATED="1585487389612" ID="ID_1196106071" LINK="https://12factor.net/" MODIFIED="1585487411800" TEXT="12 Factor Apps"/>
 </node>
-<node CREATED="1585487046612" FOLDED="true" ID="ID_165923351" MODIFIED="1585495261113" POSITION="right" TEXT="Continious Delivery">
+<node CREATED="1585487046612" ID="ID_165923351" MODIFIED="1594921589378" POSITION="right" TEXT="Continious Delivery">
 <arrowlink DESTINATION="ID_165923351" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1347873064" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_165923351" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1347873064" SOURCE="ID_165923351" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="full-5"/>
