@@ -1,11 +1,13 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1585478939021" ID="ID_1776422280" MODIFIED="1585495394365" TEXT="Enterprise Software Development">
-<node CREATED="1585485917009" FOLDED="true" ID="ID_750891335" MODIFIED="1585495256483" POSITION="left" TEXT="Development Process">
+<node CREATED="1585485917009" ID="ID_750891335" MODIFIED="1605085273827" POSITION="left" TEXT="Development Process">
 <icon BUILTIN="full-1"/>
 <node CREATED="1585487345572" ID="ID_812827887" LINK="https://agilemanifesto.org/" MODIFIED="1585487447676" TEXT="Manifesto for Agile Software Development"/>
 <node CREATED="1585485970306" ID="ID_1025987219" LINK="https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675" MODIFIED="1585485996032" TEXT="The Art of Agile Development by James Shore, Shane Warden"/>
 <node CREATED="1585486920955" ID="ID_1620497355" LINK="https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature-ebook/dp/B008NAKA5O/ref=sr_1_1?keywords=essential+scrum&amp;qid=1585486908&amp;s=books&amp;sr=1-1" MODIFIED="1585486999551" TEXT="Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth S. Rubin"/>
+<node CREATED="1605085278576" ID="ID_1983312877" LINK="https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402/ref=sr_1_1?dchild=1&amp;keywords=Kanban%3A+Successful+Evolutionary+Change+for+Your+Technology+Business&amp;qid=1605085323&amp;s=books&amp;sr=1-1" MODIFIED="1605085363679" TEXT="Kanban: Successful Evolutionary Change for Your Technology Business by David J. Anderson"/>
+<node CREATED="1605085431889" ID="ID_54735329" LINK="https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374" MODIFIED="1605085461819" TEXT="The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece by Ron Jeffries"/>
 </node>
 <node CREATED="1585479010365" ID="ID_658798748" MODIFIED="1594921307708" POSITION="left" TEXT="Design Basics">
 <icon BUILTIN="full-2"/>
@@ -55,7 +57,7 @@
 <node CREATED="1585484711681" ID="ID_467967540" LINK="https://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html" MODIFIED="1585484752623" TEXT="Test Contra-variance: Article by Robert C. Martin"/>
 </node>
 </node>
-<node CREATED="1585479084869" FOLDED="true" ID="ID_1835202548" MODIFIED="1585495253494" POSITION="left" TEXT="Module/Service Design">
+<node CREATED="1585479084869" ID="ID_1835202548" MODIFIED="1605085267460" POSITION="left" TEXT="Module/Service Design">
 <icon BUILTIN="full-3"/>
 <node CREATED="1585479693973" ID="ID_769790711" MODIFIED="1585489004786" TEXT="Enterprise Application Patterns">
 <node CREATED="1585484983560" ID="ID_1135528084" LINK="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" MODIFIED="1585485001857" TEXT="Patterns of Enterprise Application Architecture by Martin Fowler"/>
@@ -108,6 +110,9 @@
 <node CREATED="1585486526379" ID="ID_1056871796" LINK="https://www.amazon.com/Streaming-Data-Understanding-real-time-pipeline/dp/1617292281/ref=sr_1_2?keywords=streaming+data&amp;qid=1585486540&amp;s=books&amp;sr=1-2" MODIFIED="1585486579987" TEXT="Streaming Data: Understanding the real-time pipeline by Andrew Psaltis"/>
 </node>
 <node CREATED="1585487389612" ID="ID_1196106071" LINK="https://12factor.net/" MODIFIED="1585487411800" TEXT="12 Factor Apps"/>
+<node CREATED="1605085014099" ID="ID_1359071796" MODIFIED="1605085029733" TEXT="Evolutionary Architecture">
+<node CREATED="1605085073816" ID="ID_817999423" LINK="https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360" MODIFIED="1605085167163" TEXT="Building Evolutionary Architectures: Support Constant Change by Neal Ford  , Rebecca Parsons, Patrick Kua"/>
+</node>
 </node>
 <node CREATED="1585487046612" ID="ID_165923351" MODIFIED="1594921589378" POSITION="right" TEXT="Continious Delivery">
 <arrowlink DESTINATION="ID_165923351" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1347873064" STARTARROW="None" STARTINCLINATION="0;0;"/>
